@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Minesweeper.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  minesweeper.cpp
+d:\5sem\osisplabs\курсовой\winapi-saper-master\pwsg-lab1\resource.h(20): warning C4005: IDCANCEL: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: см. предыдущее определение "IDCANCEL"
+d:\5sem\osisplabs\курсовой\winapi-saper-master\pwsg-lab1\minesweeper.cpp(445): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pwsg-lab1.vcxproj -> D:\5sem\OSISPLABS\курсовой\WinApi-Saper-master\Debug\Minesweeper++.exe
+  pwsg-lab1.vcxproj -> D:\5sem\OSISPLABS\курсовой\WinApi-Saper-master\Debug\Minesweeper++.pdb (Full PDB)
